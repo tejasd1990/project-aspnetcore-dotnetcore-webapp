@@ -10,6 +10,7 @@ This is a sample ASP.NET Core MVC application that you can use to deploy on Azur
 This sample application is built using Visual Studio 2017.
 
 ## License:
+See [LICENSE](LICENSE).
 
 
 ## Contributing
